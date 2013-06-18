@@ -1,0 +1,7 @@
+body { padding-top: 40px; } /* padding for bootstraps navbar */
+
+#items-nav { padding-top: 15px; }
+#items-nav li a .position { color: black; }
+
+#workspace input { width: 100%; }
+#workspace textarea { width: 100%; }
